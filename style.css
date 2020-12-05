@@ -1,0 +1,75 @@
+
+body{
+	background-color: rgb(230, 230, 230);
+	font-family: calibri;
+}
+h1{
+	color: #003f80;
+	font-size : 40px;
+	font-family: arial;
+	font-weight: 70;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h3{
+	color: #003f80;
+	text-align: center;
+}
+a{
+	color: #003f80;
+	text-decoration: none;
+}
+p{
+	color: black;
+}
+ul{
+	color: black;
+}
+h4{
+	color: black;
+}
+/*custom design with class*/
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+}
+.box-white {
+	background-color: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 5px;
+	margin: 20px 0px;
+}
+.img-clem{
+	border-radius: 5px;
+	margin-left: 40px auto;
+	margin-right: 40px auto;
+	margin-bottom: 20px;
+}
+.btn-grey {
+	background-color: #003f80;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 5px; 
+	margin-bottom: 20px;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li {
+	display: inline;
+	padding: 10px;
+	text-align: center;
+}
+.list-inline img {
+	width: 50px;
+	height: 50px;
+}
+
+#introduction h2 {
+margin-bottom: 40px;
+}
